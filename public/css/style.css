@@ -1,0 +1,10 @@
+h1{
+    color: grey;
+}
+.card{
+    box-shadow: 0 0 5px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 50px 100px;
+    padding: 20px 30px;
+}
